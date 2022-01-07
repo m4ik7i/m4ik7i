@@ -8,8 +8,12 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ik7i&hide=html,dockerfile,jupyter+notebook&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m4ik7i&count_private=true&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/m4ik7i">
+    <img alt="Top Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ik7i&hide=html,dockerfile,jupyter+notebook&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/m4ik7i">
+    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m4ik7i&count_private=true&show_icons=true&theme=gruvbox" />
+  </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m4ik7i&title=MultiLanguage,Repositories,Commits,Issues,Stars,PullRequest&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
