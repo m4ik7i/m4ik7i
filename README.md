@@ -3,16 +3,16 @@
     <img src="https://komarev.com/ghpvc/?username=m4ik7i" alt="m4ik7i" />
   </a>
   <a href="https://github.com/m4ik7i">
-    <img height="20" src="https://img.shields.io/github/followers/m4ik7i?label=Followers&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/m4ik7i?label=Follow&logo=github&style=flat" />
   </a>
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ik7i&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m4ik7i&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ik7i&layout=compact&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=m4ik7i&count_private=true&show_icons=true&theme=gruvbox" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=m4ik7i&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m4ik7i&title=MultiLanguage,Repositories,Commits,Issues,Stars,PullRequest&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!--
 **m4ik7i/m4ik7i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
