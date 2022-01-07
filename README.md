@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=m4ik7i" alt="m4ik7i" />
   </a>
   <a href="https://github.com/m4ik7i">
-    <img height="20" src="https://img.shields.io/github/followers/m4ik7i?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/m4ik7i?label=Followers&logo=github&style=flat" />
   </a>
 </p>
 
